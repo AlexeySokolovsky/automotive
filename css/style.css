@@ -62,7 +62,7 @@ li:hover {
 }
 
 .head__home {
-	padding-bottom: 160px;
+	padding-bottom: 90px;
 	text-align: center;
 	max-width: 400px;
 	text-transform: uppercase;
@@ -88,7 +88,7 @@ li:hover {
 
 .container__menu {
 	padding-bottom: 70px;
-	background-color: white;
+	background-color: #efefef;
 }
 
 .menu__text {
