@@ -15,13 +15,19 @@ body {
 	max-width: 1011px;
 
 }
+.link__about{
+	text-decoration: none;
+	color:white;
+
+}
 
 .logo {
 	margin: 41px 0 0 40px;
 }
 
 .header {
-
+	background-repeat: no-repeat;
+	position: relative;
 	max-width: 1011px;
 	background-image: url(../img/Layer\ 13.png);
 }
